@@ -1,4 +1,4 @@
-# #Accelerate YourITCareer
+# #Accelerate Your IT Career
 ## Menjadi Profesional Network Engineer dengan Standard Cisco
 - (C1) Mengetahui dan memahami prinsip-prinsip fundamental jaringan
 - (P2) Menunjukkan keterampilan dasar dalam networking
